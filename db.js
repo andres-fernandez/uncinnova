@@ -1756,7 +1756,8 @@ const database_2026 = [{
 	"topic": "Conservación de la biodiversidad y cambio climático",
 	"category": "Investigación o desarrollo aplicable",
 	"ua": ["Facultad de Ciencias Médicas - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "El monitoreo del estado fisiológico y reproductivo de animales suele requerir métodos invasivos, como la extracción de sangre, que generan estrés y pueden impactar en los resultados. Esta iniciativa consiste en una estrategia de monitoreo hormonal no invasivo, basada en el análisis de muestras biológicas —materia fecal, orina, saliva, pelo, yema de huevo, plumas y grasa—, obtenidas sin intervenir directamente sobre los individuos. El objetivo es mejorar el bienestar animal y aportar información clave para la conservación y el manejo de especies silvestres, como ballenas, yaguaretés, monos aulladores, ciervos de los pantanos o ñandúes, entre otros.",
+  "year": "2026",
 	"position": null,
 	"team": ["Marina Ponzio", "Veronica Cantarelli"]
 }, {
@@ -1767,7 +1768,8 @@ const database_2026 = [{
 	"topic": "Conservación de la biodiversidad y cambio climático",
 	"category": "Producto, proceso o servicio innovador",
 	"ua": ["Facultad de Filosofía y Humanidades - UNC", "Consultora Zeleni Svet"],
-	"year": "2026",
+	"desc": "La contaminación urbana y la degradación ambiental suelen abordarse con información fragmentada y escasa participación ciudadana. Frente a eso surge la 'Red Biosfera Urbana', una red colaborativa de monitoreo ambiental y biorremediación que integra a la comunidad en la generación de datos y en la implementación de soluciones basadas en procesos biológicos. El objetivo es detectar problemáticas ambientales, recuperar espacios degradados y fortalecer la gestión sostenible de los ecosistemas urbanos.",
+  "year": "2026",
 	"position": null,
 	"team": ["Guillermo Schwindt", "Jonatan Montes Gobelet", "Jualiana Robledo", "Virginia Llanos", "María Cid Bodo"]
 }, {
@@ -1778,18 +1780,20 @@ const database_2026 = [{
 	"topic": "Conservación de la biodiversidad y cambio climático",
 	"category": "Producto, proceso o servicio innovador",
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC", "CONICET"],
+	"desc": "La fragmentación de los ecosistemas y el crecimiento urbano desordenado dificultan la conservación de la biodiversidad y una planificación territorial sostenible. Ante ese diagnóstico, se plantea incorporar infraestructura verde basada en conectividad ecológica para integrar áreas naturales dentro de los procesos de ordenamiento del territorio. Su principal innovación radica en utilizar la conectividad entre ecosistemas como criterio de planificación, lo cual permite diseñar territorios más resilientes, conservar funciones ambientales y mejorar la relación entre desarrollo urbano y naturaleza.",
 	"year": "2026",
 	"position": null,
 	"team": ["Leonardo David Amarilla"]
 }, {
-	"title": "Casa Raiz | Vivienda modular con materiales reciclados",
-	"short_name": "Casa Raiz | Vivienda modular con materiales reciclados",
+	"title": "Casa Raíz | Vivienda modular con materiales reciclados",
+	"short_name": "Casa Raíz | Vivienda modular con materiales reciclados",
 	"url": "https://uncinnova.unc.edu.ar/casa-raiz-vivienda-modular-con-materiales-reciclados/",
 	"img": "https://uncinnova.unc.edu.ar/wp-content/uploads/sites/54/sites/54/2026/05/Vivienda_base_cortina_agua_Carpena_cons-1024x1024.jpg",
 	"topic": "Conservación de la biodiversidad y cambio climático",
 	"category": "Investigación o desarrollo aplicable",
 	"ua": ["Facultad de Arquitectura, Urbanismo y Diseño - UNC"],
-	"year": "2026",
+	"desc": "Casa Raíz consiste en una vivienda modular construida con madera plástica y componentes reciclados, bajo criterios de arquitectura bioclimática y economía circular. Su estructura es adaptable a distintos contextos y permite tanto la autoconstrucción asistida como la implementación comunitaria. Cada unidad puede crecer según las necesidades de la familia, con costos menores que la construcción tradicional y menor huella de carbono.",
+  "year": "2026",
 	"position": null,
 	"team": ["Alejandro Raúl Carpena"]
 }, {
@@ -1800,7 +1804,8 @@ const database_2026 = [{
 	"topic": "Bioeconomía",
 	"category": "Investigación o desarrollo aplicable",
 	"ua": ["Instituto Gulich", "INTA Manfredi", "CONAE"],
-	"year": "2026",
+	"desc": "Este proyecto integra imágenes satelitales hiperespectrales (PRISMA, EnMAP) y multiespectrales (Sentinel-2) con datos de campo y algoritmos de aprendizaje automático para detectar procesos de salinización en etapas tempranas, incluso antes de que sean visibles en el terreno. El resultado son mapas de riesgo salino y de rendimiento predicitivo que se visualizan en una plataforma de uso agronómico. Surge de la articulación entre el Instituto Gulich, el INTA Manfredi y la CONAE, y apunta a mejorar la toma de decisiones en el sur de Córdoba.",
+  "year": "2026",
 	"position": null,
 	"team": ["María Victoria Marinelli", "Diego Hernán Pons", "Pablo Zader", "Mario Sgró", "Diego Schell", "Elisa Frank Buss"]
 }, {
@@ -1811,7 +1816,8 @@ const database_2026 = [{
 	"topic": "Bioeconomía",
 	"category": "Investigación o desarrollo aplicable",
 	"ua": ["Facultad de Ciencias Químicas - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "NanoLiFe produce LiFePO₄/C nanoestructurado —material catódico para baterías de ion-litio— utilizando nanofibras amiloideas obtenidas de proteínas del lactosuero como molde y fuente de carbono. El proceso opera en medio acuoso, en una única etapa, sin generar gases tóxicos ni efluentes contaminantes. El objetivo es avanzar en la cadena de valor del litio en Argentina, agregar valor industrial a un subproducto lácteo descartado y proteger el proceso intelectualmente.",
+  "year": "2026",
 	"position": null,
 	"team": ["Gerardo Fidelio", "Pablo Rodríguez", "María Elisa Mariani", "Santiago Vera"]
 }, {
@@ -1822,7 +1828,8 @@ const database_2026 = [{
 	"topic": "Bioeconomía",
 	"category": "Investigación o desarrollo aplicable",
 	"ua": ["Facultad de Ciencias Químicas - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "Esta propuesta consiste en el desarrollo de bioherbicidas a partir de aceites esenciales y otros compuestos naturales de origen regional, encapsulados en nanocápsulas de alginato para mejorar su estabilidad, protegerlos de la degradación y lograr una liberación gradual en el suelo. Apunta a controlar malezas resistentes como Amaranthus y Lolium, que afectan cerca del 40% de los cultivos en Argentina, sin depender del glifosato ni la atrazina. Su compatibilidad con bacterias promotoras del crecimiento vegetal y su capacidad de retener agua aportan beneficios adicionales al suelo.",
+  "year": "2026",
 	"position": null,
 	"team": ["Matías Crosio", "Jimena Herrera", "Marcela Palacios", "Macarena Siri", "Marcos Yannicari", "Brisa Berrondo", "Milagros Gonzales Francheschini", "Juan Ludueña Medina", "Sofia Rasino"]
 }, {
@@ -1833,7 +1840,8 @@ const database_2026 = [{
 	"topic": "Bioeconomía",
 	"category": "Investigación o desarrollo aplicable",
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC"],
-	"year": "2026",
+	"desc": "Este trabajo combina imágenes satelitales, mediciones de resistencia a la penetración, georradar y conductividad eléctrica en un sistema de información geográfica con análisis geoestadístico. La meta es generar mapas de alta resolución que caracterizan volumétricamente el suelo en forma no invasiva. Y resultado es un protocolo metodológico replicable que permite pasar de diagnósticos puntuales a una visión espacial completa de compactación, erosión y sedimentación dentro de cada lote agrícola. La solución puede transferirse como servicio al sector productivo y a la gestión territorial.",
+  "year": "2026",
 	"position": null,
 	"team": ["Germán Rodrigo Molina", "Gabriela Sacchi", "Matías Forno", "Bernabe Franchino", "Sabrina Torti López"]
 }, {
@@ -1844,7 +1852,8 @@ const database_2026 = [{
 	"topic": "Bioeconomía",
 	"category": "Producto, proceso o servicio innovador",
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "Este trabajo aborda la producción de antígeno ESAT-6, mediante tecnología de ADN recombinante, para ser usardo como reactivo en la prueba de diagnóstico de tuberculosis bovinase.  El antígeno ESAT-6 es específico de Mycobacterium bovis y está ausente en la mayoría de micobacterias ambientales. A diferencia del PPD-B convencional —una mezcla compleja de proteínas con problemas de especificidad y variabilidad entre lotes—, este antígeno purificado reduce los falsos positivos y negativos. El propósito es mejorar la precisión diagnóstica, abaratar los programas sanitarios y proyectar el desarrollo hacia mercados internacionales.",
+  "year": "2026",
 	"position": null,
 	"team": ["Matías Iván Gatto", "Claudia Argüelles", "Claudio Paolazzi", "Gustavo Helguera"]
 }, {
@@ -1855,7 +1864,8 @@ const database_2026 = [{
 	"topic": "Bioeconomía",
 	"category": "Investigación o desarrollo aplicable",
 	"ua": ["Facultad de Ciencias Agropecuarias - UNC"],
-	"year": "2026",
+	"desc": "Es un catéter modular para inseminación porcina, fabricado en ácido poliláctico (PLA), un biopolímero compostable de origen renovable que se degrada en meses en condiciones adecuadas. Reemplaza los catéteres convencionales de plástico derivado del petróleo, que en las granjas cordobesas suelen eliminarse quemándolos o enterrándolos. El propósito es ofrecer una solución con igual rendimiento reproductivo pero con huella ambiental significativamente menor, envasada en materiales biodegradables.",
+  "year": "2026",
 	"position": null,
 	"team": ["Lola Valencia", "Pablo Cordi", "Eric Cuello", "Karen Equiza", "Camila Pereyra", "Camila Sifón Monteros"]
 }, {
@@ -1866,7 +1876,8 @@ const database_2026 = [{
 	"topic": "Conservación de la biodiversidad y cambio climático",
 	"category": "Producto, proceso o servicio innovador",
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC", "Fundación Ambiente Argentino"],
-	"year": "2026",
+	"desc": "Lombrilitro es un sistema de vermifiltración para el tratamiento de aguas residuales mediante lombrices, microorganismos y materiales filtrantes, sin insumos químicos y con bajo consumo energético. Implementado en la localidad cordobesa de Idiazábal, el agua tratada se destina al riego del arbolado urbano y, en una fase más reciente, a una plantación de nuez pecán, en transición hacia sistemas sostenibles. El propósito es convertir un residuo contaminante en un recurso bajo un modelo de economía circular, combinando saneamiento ambiental, restauración ecológica y educación científica en escuelas locales.",
+  "year": "2026",
 	"position": null,
 	"team": ["Luis Auyeros", "Clara Rimondino", "Tamara Maggioni", "Yohana Riva"]
 }, {
@@ -1877,7 +1888,8 @@ const database_2026 = [{
 	"topic": "Bioeconomía",
 	"category": "Investigación o desarrollo aplicable",
 	"ua": ["Facultad de Ciencias Agropecuarias - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "Este desarrollo consiste en recubrimientos comestibles elaborados con biopolímeros enriquecidos con aceite esencial de poleo (Lippia turbinata), una especie regional con demostrada capacidad antioxidante. Los recubrimientos están pensados para ser aplicarlos sobre semillas de girasol. La incorporación del aceite en una matriz biopolimérica permite controlar su liberación, protegerlo de la degradación y reducir su impacto sensorial. De esta manera se busca prolongar la vida útil del alimento sin aditivos sintéticos, en respuesta a la demanda de conservantes naturales y valorizando recursos del entorno local.",
+  "year": "2026",
 	"position": null,
 	"team": ["Melisa Fushimi", "Patricia Quiroga", "Valeria Nepote", "Alexis Barbero", "María Cecilia Prieto"]
 }, {
@@ -1888,7 +1900,8 @@ const database_2026 = [{
 	"category": "Producto, proceso o servicio innovador",
 	"topic": "Transformación tecnológica",
 	"ua": ["CONICET"],
-	"year": "2026",
+	"desc": "Esta Consultora de Análisis Socio Técnico (CAST) aplica metodologías etnográficas —presenciales y digitales— para identificar los conflictos internos, las capacidades reales y las incompatibilidades organizacionales que obstaculizan la adopción de IA, drones, automatización y plataformas digitales en empresas, organismos públicos e instituciones. A partir de ese diagnóstico, genera glosarios de traducción sociotécnica, tableros de control con métricas operacionales y capacitaciones a medida. Su diferencial es considerar simultáneamente las dimensiones técnicas, humanas y culturales de cada implementación.",
+  "year": "2026",
 	"position": null,
 	"team": ["Agustín Berti", "Martín Alaluf", "Sebastián Torrez"]
 }, {
@@ -1899,7 +1912,8 @@ const database_2026 = [{
 	"category": "Producto, proceso o servicio innovador",
 	"topic": "Transformación tecnológica",
 	"ua": ["Facultad de Ciencias Sociales - UNC", "Instituto de Investigación y Formación en Administración Pública - UNC"],
-	"year": "2026",
+	"desc": "«Mejora tu barrio» es una plataforma de software libre y una aplicación móvil que permite a los vecinos reportar y georreferenciar problemas en servicios públicos, seguridad, transporte, infraestructura, ambiente y salud. El sistema construye una base de datos territorial dinámica que se visualiza en mapas interactivos con indicadores tipo semáforo, para facilitar la toma de decisiones a escala municipal. Su propósito es reducir la brecha entre ciudadanía y Estado, fortalecer la participación en la gestión pública local y mejorar la producción colaborativa de información urbana.",
+  "year": "2026",
 	"position": null,
 	"team": ["Anna Giuffrida", "Valentina Poggi Mangold"]
 }, {
@@ -1910,7 +1924,8 @@ const database_2026 = [{
 	"category": "Investigación o desarrollo aplicable",
 	"topic": "Transformación tecnológica",
 	"ua": ["Facultad de Ciencias Químicas - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "Este proyect aborda el desarrollo de un nanobiosensor electroquímico sobre electrodos descartables capaz de detectar simultáneamente, en una única medición, compuestos inorgánicos —plomo y antimonio— y orgánicos —difenilamina— presentes en residuos de disparo de armas de fuego. Fue validado con muestras reales obtenidas en un polígono forense y puede analizar tanto prendas impactadas como hisopados de manos de un presunto tirador. El propósito es ofrecer una herramienta portátil, de bajo costo y aplicable directamente en la escena del crimen, con mayor especificidad que los métodos convencionales.",
+  "year": "2026",
 	"position": null,
 	"team": ["María Dolores Rubianes", "José Leonardo Bravo"]
 }, {
@@ -1921,7 +1936,8 @@ const database_2026 = [{
 	"category": "Producto, proceso o servicio innovador",
 	"topic": "Transformación tecnológica",
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "BioRest&Fill aprovecha la precipitación biológica de carbonato de calcio para reparar microfisuras en morteros de hormigón. Esta solución evita el uso de resinas sintéticas o selladores epóxicos, que puedan dañar el sustrato original. El sistema incluye tres dispositivos aplicadores fabricados en impresión 3D, adaptados a distintos tipos de defectos y una calculadora de huella de carbono del proceso productivo del producto. Fue diseñado específicamente para la conservación de edificaciones patrimoniales como la Manzana Jesuítica de Córdoba, en cumplimiento con los principios de mínima intervención y reversibilidad de la UNESCO.",
+  "year": "2026",
 	"position": null,
 	"team": ["María Gabriela Paraje", "Anabela Guilarducci", "Iván Manrrique Hughes", "Manuela Maldonado Torales", "Dianela González", "Karina Crespo", "Sergio Farchetto"]
 }, {
@@ -1932,7 +1948,8 @@ const database_2026 = [{
 	"category": "Producto, proceso o servicio innovador",
 	"topic": "Transformación tecnológica",
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC", "Instituto Nacional de Tecnología Agropecuaria (INTA)"],
-	"year": "2026",
+	"desc": "Verdulín es un chatbot inteligente disponible 24 horas que automatiza el ciclo de venta en comercios frutihortícolas hasta antes del momento del pago. Consulta stock en tiempo real, calcula precios de pedidos fraccionados, valida datos obligatorios antes de confirmar una orden y bloquea notas de voz para reducir errores. Construido sobre n8n con Google Gemini como modelo de lenguaje, apunta a democratizar el acceso a herramientas de IA en un sector con baja digitalización.",
+  "year": "2026",
 	"position": null,
 	"team": ["Diego Pons", "Felipe Scarazzini", "Mateo Beltramone", "Ana Arrascaeta", "Adriana Garelo", "Julieta Prieto"]
 }, {
@@ -1943,7 +1960,8 @@ const database_2026 = [{
 	"category": "Investigación o desarrollo aplicable",
 	"topic": "Transformación tecnológica",
 	"ua": ["Facultad de Ciencias de la Comunicación - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "ADICOM es una plataforma modular de analítica textual computacional que automatiza la limpieza, estructuración, modelado temático y visualización de grandes corpus provenientes de redes sociales y entornos digitales. Funciona mediante notebooks ejecutables en Google Colab, sin necesidad de programación avanzada, ni infraestructura local. Su propósito es democratizar el acceso a metodologías de análisis de lenguaje natural en América Latina, para investigación académica, monitoreo de opinión pública y evaluación de campañas de comunicación.",
+  "year": "2026",
 	"position": null,
 	"team": ["Leonardo Corzo"]
 }, {
@@ -1954,7 +1972,8 @@ const database_2026 = [{
 	"category": "Producto, proceso o servicio innovador",
 	"topic": "Transformación tecnológica",
 	"ua": ["Facultad de Artes - UNC"],
-	"year": "2026",
+	"desc": "GestXR es una plataforma de creación musical en realidad virtual que convierte los movimientos de las manos en sonidos, en tiempo real, sin controladores físicos ni conocimientos musicales previos. Funciona con gafas Meta Quest 3 y un modelo de IA generativa que actúa como agente cocreativo, para generar respuestas musicales coherentes de forma inmediata y offline. Apunta a accesibilizar la producción sonora en contextos educativos, artísticos y recreativos, con proyección hacia experiencias colaborativas multiusuario e instalaciones interactivas.",
+  "year": "2026",
 	"position": null,
 	"team": ["Sergio Patricio Poblete Barbero", "David Gallello", "Emiliano Díaz", "Zulema Isabel Borra", "Dante Demarchi Oliveira", "Nahir Dahbar"]
 }, {
@@ -1965,7 +1984,8 @@ const database_2026 = [{
 	"category": "Producto, proceso o servicio innovador",
 	"topic": "Transformación tecnológica",
 	"ua": ["Facultad de Artes - UNC", "MEDIALAB"],
-	"year": "2026",
+	"desc": "Este proyecto apunta a digitalizar el patrimonio arquitectónico y los objetos históricos de la UNC mediante la combinación de  fotografía aérea capturada con drones, imágenes de alta resolución y la técnica de Gaussian Splatting (3DGS). El resultado es un modelo tridimensional fotorrealista y navegable de los edificios, en tiempo real. Las representaciones conservan no solo la geometría de los espacios, sino también sus condiciones lumínicas y atmosféricas. Los recorridos pueden explorarse en visores de realidad virtual como Meta Quest, Apple Vision o Pico VR, además de computadoras y dispositivos móviles.",
+  "year": "2026",
 	"position": null,
 	"team": ["Daniel Isoardi", "Martin Alaluf"]
 }, {
@@ -1976,7 +1996,8 @@ const database_2026 = [{
 	"category": "Producto, proceso o servicio innovador",
 	"topic": "Transformación tecnológica",
 	"ua": ["Facultad de Arquitectura, Urbanismo y Diseño - UNC"],
-	"year": "2026",
+	"desc": "ConstruLink es un marketplace B2B para la industria de la construcción que conecta constructoras, desarrollistas y profesionales con contratistas especializados mediante un muro de licitaciones. Incorpora un sistema de compliance legal —el «Semáforo Legal»— que verifica en tiempo real ART, seguros y documentación fiscal antes del ingreso a obra. Los pagos quedan retenidos en un fondo común de inversión y se liberan al contratista solo cuando el jefe de obra aprueba los avances, lo cual elimina el riesgo de adelantos impagos y abandonos de obra.",
+  "year": "2026",
 	"position": null,
 	"team": ["Franco Lucas Perarnau"]
 }, {
@@ -1987,7 +2008,8 @@ const database_2026 = [{
 	"topic": "Conservación de la biodiversidad y cambio climático",
 	"category": "Investigación o desarrollo aplicable",
 	"ua": ["Facultad de Arquitectura, Urbanismo y Diseño - UNC", "Escuela Municipal de Economía Circular (Ente Municipal BioCórdoba)"],
-	"year": "2026",
+	"desc": "Desarrollada en la Escuela Municipal de Economía Circular de Córdoba, esta matriz es una herramienta de diagnóstico aplicable a la etapa analítica del proceso de diseño. Evalúa todas las variables del ciclo de vida de un producto —materias primas, modularidad, durabilidad, reparabilidad, reciclabilidad y flujos de retorno— integrando datos propios del ecosistema industrial cordobés. El propósito es orientar decisiones de ecodiseño hacia opciones más circulares. La herramienta es adaptable y replicable a otros contextos productivos e institucionales.",
+  "year": "2026",
 	"position": null,
 	"team": ["Romina Tártara", "Agustina Donzelli", "Matías Garabello", "Mariana Manavella", "Andrés Meraviglia", "Matías Nieto", "Agostina Pfaffen", "María del Pilar Soto", "Santiago Tomacello"]
 }, {
@@ -1998,7 +2020,8 @@ const database_2026 = [{
 	"category": "Producto, proceso o servicio innovador",
 	"topic": "Salud humana",
 	"ua": ["Facultad de Arquitectura, Urbanismo y Diseño - UNC"],
-	"year": "2026",
+	"desc": "Este posturógrafo estático modular y de producción nacional está compuesto por una base de medición y una tobillera con sensores ubicados en el maléolo interno, que registran simultáneamente variables de movimiento y estabilidad corporal. Incluye retroalimentación visual y sonora para facilitar la interacción con el paciente e incorpora diseño ergonómico y estructura desmontable para su traslado a consultorios y centros de rehabilitación sin infraestructura especializada. Su fin es ampliar el acceso a la evaluación postural en adultos mayores, hoy limitada a centros con equipos importados de alto costo.",
+  "year": "2026",
 	"position": null,
 	"team": ["Milena Maidana", "Alexia Cardelle", "Julieta Estruch"]
 }, {
@@ -2009,7 +2032,8 @@ const database_2026 = [{
 	"category": "Investigación o desarrollo aplicable",
 	"topic": "Salud humana",
 	"ua": ["Facultad de Psicología - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "Esta iniciativa desarrolla una extensión de navegador con aprendizaje automático que detecta contenidos hostiles —insultos, expresiones de odio, acoso y humillaciones— en Instagram y reduce su visibilidad en el feed mediante desjerarquización algorítmica, sin eliminar publicaciones ni bloquear cuentas. La herramienta incorpora configuración personalizada y será evaluada en un estudio experimental con grupo control. El propósito es disminuir el impacto en la salud mental de jóvenes de 18 a 29 años, una franja con alta vulnerabilidad psicosocial, sin impedir el uso de las plataformas.",
+  "year": "2026",
 	"position": null,
 	"team": ["Mila Francovich", "Silvina Brussino", "Laura Alonso Alemany"]
 }, {
@@ -2020,7 +2044,8 @@ const database_2026 = [{
 	"category": "Investigación o desarrollo aplicable",
 	"topic": "Salud humana",
 	"ua": ["Facultad de Odontología - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "Este proyecto busca analizar integralmente la microbiota bucal de 90 participantes —pacientes con carcinoma de células escamosas, con trastornos potencialmente malignos y controles sanos— para identificar diferencias en la composición microbiana y detectar posibles estados de disbiosis asociados al desarrollo o progresión del cáncer oral. Incluye técnicas microbiológicas, micológicas y detección de HPV por PCR, junto con análisis bioinformáticos. El fin es generar biomarcadores microbianos que permitan estrategias de detección temprana menos invasivas.",
+  "year": "2026",
 	"position": null,
 	"team": ["Rosana Morelatto", "Cecilia Cuffini", "Silvina Barembaum", "Marcelo Zapata"]
 }, {
@@ -2031,7 +2056,8 @@ const database_2026 = [{
 	"category": "Investigación o desarrollo aplicable",
 	"topic": "Salud humana",
 	"ua": ["Facultad de Ciencias Químicas - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "Este desarrollo plantea analizar muestras de sangre periférica de pacientes con cáncer de mama HER2-negativo, tomadas antes del inicio del tratamiento, para construir firmas inmunológicas y perfiles de expresión génica capaces de predecir si una paciente responderá a la inmunoterapia. Al basarse en sangre y no en biopsias tumorales, ofrece un abordaje mínimamente invasivo. Actualmente en validación sobre una cohorte independiente de mayor tamaño, la plataforma tiene potencial de adaptación a otros tipos de cáncer tratados con inmunoterapia.",
+  "year": "2026",
 	"position": null,
 	"team": ["Sabrina Dhooge", "Nicolas Nuñez", "Mariana Maccioni", "Lucia Boffelli", "Jeremias Dutto", "Ana Paula Flores", "Jeremias Bustos", "Pilar Biasi"]
 }, {
@@ -2042,7 +2068,8 @@ const database_2026 = [{
 	"category": "Producto, proceso o servicio innovador",
 	"topic": "Salud humana",
 	"ua": ["Facultad de Ciencias Médicas - UNC"],
-	"year": "2026",
+	"desc": "Esta plataforma web combina visión computacional e inteligencia artificial para evaluar automáticamente capacidades motrices funcionales en tiempo real, usando solo una computadora con cámara estándar. El sistema analiza 33 puntos de referencia corporales, calcula ángulos articulares, mide tiempos y cuenta repeticiones sin intervención manual del evaluador. Además, integra gestión clínica, seguimiento longitudinal y generación automática de informes, con el propósito de mejorar la objetividad diagnóstica y ampliar el acceso a tecnologías de evaluación funcional en distintos contextos de atención.",
+  "year": "2026",
 	"position": null,
 	"team": ["Victoria Legaz", "Cecilia Legaz", "Laura Urquiza", "Leonardo Acevedo"]
 }, {
@@ -2053,7 +2080,8 @@ const database_2026 = [{
 	"category": "Investigación o desarrollo aplicable",
 	"topic": "Salud humana",
 	"ua": ["Facultad de Ciencias Médicas - UNC"],
-	"year": "2026",
+	"desc": "La iniciativa consiste en el desarrollo de una herramienta de aprendizaje automático entrenada sobre una base de datos local de aproximadamente 4000 imágenes de biopsias renales, obtenidas por microscopía óptica, para cuantificar automáticamente el grado de fibrosis renal. La meta es hacerlo con mayor objetividad y reproducibilidad que los métodos semicuantitativos actuales. A diferencia de los sistemas internacionales, opera sin escáneres WSI de alto costo, lo que lo hace viable en centros de salud con recursos limitados. La base de datos generada constituye además un recurso estratégico para futuros desarrollos biomédicos locales.",
+  "year": "2026",
 	"position": null,
 	"team": ["Maria Victoria Cortez", "Jorge Mukdsi", "Mario Garcia", "Erica Faure", "Julieta Martinez", "Andrea Intile"]
 }, {
@@ -2064,7 +2092,8 @@ const database_2026 = [{
 	"category": "Producto, proceso o servicio innovador",
 	"topic": "Salud humana",
 	"ua": ["Facultad de Ciencias Médicas - UNC"],
-	"year": "2026",
+	"desc": "La propuesta plantea la instalación de tótems con tensiómetros digitales conectados a un sistema que procesa los datos del usuario —edad, antecedentes, síntomas y ubicación—, clasifica el nivel de riesgo cardiovascular y genera recomendaciones personalizadas. En casos urgentes deriva al centro de salud más cercano al lugar de la medición; en los demás, al más próximo al domicilio del usuario. Un módulo automatizado envía los resultados por email. La propuesta ya cuenta con una implementación piloto operativa y apunta a ampliar el autocontrol de la presión arterial en entornos comunitarios.",
+  "year": "2026",
 	"position": null,
 	"team": ["Juan González Camacho", "Jeanette Gauna", "Jimena Rodríguez", "Ornella Ponte"]
 }, {
@@ -2075,7 +2104,8 @@ const database_2026 = [{
 	"category": "Producto, proceso o servicio innovador",
 	"topic": "Salud humana",
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC", "Programa de innovación y desarrollo tecnológico de Extensión UNC"],
-	"year": "2026",
+	"desc": "Esta prótesis de miembro superior capta señales electromiográficas de los músculos residuales del muñón, las procesa con un microcontrolador Arduino y las traduce en movimientos de una mano impresa en 3D con PLA y PETG. Su encaje es personalizable mediante escaneo 3D o férulas termoformables. Al ser open source y fabricable localmente, representa una reducción aproximada del 96 % en costo respecto de las prótesis biónicas importadas; además, puede producirse y mantenerse en hospitales públicos o talleres con equipamiento básico de impresión 3D.",
+  "year": "2026",
 	"position": null,
 	"team": ["Antonio Pereira Petruele", "Bárbara Carrizo", "Milagros Vasquez", "Benja Spina Bigotto", "Zoé Julieta de Lourdes Quiroz Cáceres", "Juan Cruz Paniagua"]
 }, {
@@ -2086,7 +2116,8 @@ const database_2026 = [{
 	"category": "Investigación o desarrollo aplicable",
 	"topic": "Salud humana",
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "Se trata del desarrollo de insertos oculares de colágeno, fabricados por impresión 3D, que liberan acetazolamida —en forma convencional y como nanocristales— directamente en el saco conjuntival, de forma sostenida y localizada. La propuesta evita la administración oral del fármaco, que actualmente se usa en dosis elevadas por su escasa solubilidad oftálmica y genera efectos adversos sistémicos. Los estudios in vivo demostraron buena tolerabilidad ocular y reducción significativa de la presión intraocular con dosis menores. La plataforma tiene potencial de adaptación a otros tratamientos oftálmológicos.",
+  "year": "2026",
 	"position": null,
 	"team": ["Julieta Ribotta", "Hamoudi Awde", "Romina Comín", "Juan Pablo Real", "Santiago Palma", "Ignacio Tártara", "Mariana Cid", "Lina Formica"]
 }, {
@@ -2097,7 +2128,8 @@ const database_2026 = [{
 	"category": "Producto, proceso o servicio innovador",
 	"topic": "Salud humana",
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC"],
-	"year": "2026",
+	"desc": "ZenSer es una aplicación móvil y web que construye un bioperfil dinámico de cada usuario —métricas físicas, ritmos circadianos, hábitos y condiciones médicas— y lo cruza con datos ambientales en tiempo real como sensación térmica, radiación UV y calidad del aire. El resultado son alertas conductuales personalizadas para protegerse de fenómenos climáticos adversos. La plataforma ya cuenta con una versión beta cerrada en Argentina y prevé, además, usar datos anonimizados para generar indicadores predictivos de salud urbana útiles para gobiernos e instituciones.",
+  "year": "2026",
 	"position": null,
 	"team": ["Sacha Paez Rivero"]
 }, {
@@ -2108,7 +2140,8 @@ const database_2026 = [{
 	"topic": "Bioeconomía",
 	"category": "Producto, proceso o servicio innovador",
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "Este proyecto desarrolla una estación de prueba para electrolizadores alcalinos de fabricación local. Integra subsistemas eléctricos, hidráulicos y de manejo de gases, con control de variables críticas como temperatura, presión, caudal, voltaje y corriente. El sistema permite monitoreo continuo, operación automatizada y diseño modular para comparar distintos componentes. Su propósito es ofrecer a universidades y empresas argentinas una infraestructura accesible para validar, optimizar y escalar tecnología de hidrógeno verde, y reducir la dependencia de equipos importados.",
+  "year": "2026",
 	"position": null,
 	"team": ["Marcos Ruarte Dalla Costa", "Camila Fernández Manzanares", "Jerónimo Larravide Del Franco", "María Candelaria Quiroga", "Esteban Franceschini", "Gabriel Correa Perelmuter"]
 }, {
@@ -2119,7 +2152,8 @@ const database_2026 = [{
 	"topic": "Bioeconomía",
 	"category": "Producto, proceso o servicio innovador",
 	"ua": ["Facultad de Arquitectura, Urbanismo y Diseño - UNC", "CONICET"],
-	"year": "2026",
+	"desc": "Este trabajo consiste en el diseño de un reactor de pirólisis rápida tipo FVP con alimentación automatizada por tornillo sin fin, que transforma biomasa residual —cáscaras, restos agrícolas, virutas de corcho, algas— en biocarbón altamente poroso apto para adsorber metales pesados, fármacos y pesticidas en agua y aire. El biocarbón puede modificarse con aditivos para distintas aplicaciones y se formula en filtros modulares de operación pasiva. Incluye además un módulo de recuperación de gases con potencial energético, lo cual cierra el ciclo productivo bajo un enfoque de economía circular.",
+  "year": "2026",
 	"position": null,
 	"team": ["Fidel Manattini", "Nicolas Miño", "Walter Pelaez", "Máximo Salzmann", "Gastón Silvestre", "Yanina Tobares", "Joaquin Torre", "Alem Valdez"]
 }, {
@@ -2130,7 +2164,8 @@ const database_2026 = [{
 	"topic": "Equidad, inclusión y acceso al conocimiento",
 	"category": "Investigación o desarrollo aplicable",
 	"ua": ["Facultad de Arquitectura, Urbanismo y Diseño - UNC", "Observatorio Urbano Córdoba"],
-	"year": "2026",
+	"desc": "La propuesta plantea la generación de un Índice de Caminabilidad para el microcentro de Córdoba, a partir del relevamiento sistemático de campo con aplicaciones móviles georreferenciadas, midiendo variables como estado de veredas, accesibilidad, señalización, arbolado, ruido y proximidad a servicios. Los datos se integran en un modelo que clasifica tramos según su nivel de caminabilidad y los representa en mapas temáticos. El fin es ofrecer una herramienta técnica basada en datos empíricos que oriente políticas públicas de movilidad sostenible, replicable en otros contextos urbanos.",
+  "year": "2026",
 	"position": null,
 	"team": ["Carlos Lucca", "Sebastían Bonino", "Cristian Terreno", "Sabrina Sagioratto", "Florencia Fernández"]
 }, {
@@ -2141,7 +2176,8 @@ const database_2026 = [{
 	"topic": "Equidad, inclusión y acceso al conocimiento",
 	"category": "Producto, proceso o servicio innovador",
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC"],
-	"year": "2026",
+	"desc": "SONO es un sistema de balizas portátiles con baterías recargables y sensores de proximidad que emiten señales auditivas para que personas con discapacidad visual puedan ubicarse espacialmente durante la actividad física, sin necesidad de guía permanente. Funciona como equivalente sonoro de los conos del deporte convencional y es adaptable a distintas disciplinas y entornos educativos. Fue validado junto a deportistas de la Selección Argentina Femenina de Fútbol para Ciegos y del equipo cordobés «Las Guerreras».",
+  "year": "2026",
 	"position": null,
 	"team": ["Agustín Leandro Perez Rodríguez", "Agustina Lilen Zavala López"]
 }, {
@@ -2152,7 +2188,8 @@ const database_2026 = [{
 	"topic": "Equidad, inclusión y acceso al conocimiento",
 	"category": "Producto, proceso o servicio innovador",
 	"ua": ["Facultad de Ciencias de la Comunicación - UNC"],
-	"year": "2026",
+	"desc": "«Huella Cartón» es una videoinstalación inmersiva e interdisciplinaria que combina piezas audiovisuales con registro etnográfico en territorio, instalaciones físicas en cartón y papel, música original y momentos performativos en vivo. Se coproduce con cooperativas cartoneras, cuyos saberes y prácticas son el eje del dispositivo. Apunta a generar apropiación social de la problemática de los residuos y visibilizar el aporte de los recuperadores urbanos, con un formato replicable en espacios culturales, educativos y comunitarios.",
+  "year": "2026",
 	"position": null,
 	"team": ["Eugenia Acosta", "Franco Guerra", "Cecilia Agonal", "Ximena Cabral", "Candelaria Jaimez", "Paulina Funes", "Valeria Traversa", "Diego Villarreal Rivarola", "Emilia Barrera", "Karen Romero", "Sofía Moroz", "Mariana Minervini", "Paola Bonavitta"]
 }, {
@@ -2163,7 +2200,8 @@ const database_2026 = [{
 	"topic": "Equidad, inclusión y acceso al conocimiento",
 	"category": "Investigación o desarrollo aplicable",
 	"ua": ["Facultad de Ciencias de la Comunicación - UNC"],
-	"year": "2026",
+	"desc": "CONECT.AR es un taller presencial, lúdico e inclusivo que enseña a adultos mayores el uso básico y avanzado del smartphone, la realización de trámites digitales y el reconocimiento de sus derechos vinculados a la privacidad y el acceso a la información. Incluye el manual Interconectad@s, diseñado con lectura fácil y disponible en formato digital, audio y PDF descargable. El propósito es reducir la exclusión digital de esta franja etaria, fortalecer su autonomía y promover su participación plena en la vida social y comunitaria.",
+  "year": "2026",
 	"position": null,
 	"team": ["Lorena Ivana Aguirre", "Maria Valeria Auil", "Pablo Ariel Natta"]
 }, {
@@ -2174,7 +2212,8 @@ const database_2026 = [{
 	"topic": "Equidad, inclusión y acceso al conocimiento",
 	"category": "Producto, proceso o servicio innovador",
 	"ua": ["Facultad de Ciencias de la Comunicación - UNC"],
-	"year": "2026",
+	"desc": "Este proyecto desarrolló un recurso didáctico multimodal en Canva que explica los tres tipos de citación —directa, indirecta y mixta— con ejemplos periodísticos, accesible en texto, audio (técnica de lectura fácil, para personas con disminución visual) y sala de redacción interactiva en Padlet. El propósito es transformar la citación de una dificultad técnica a una práctica de responsabilidad ética. El material ya fue adoptado por otras cátedras de la Facultad de Ciencias de la Comunicación.",
+  "year": "2026",
 	"position": null,
 	"team": ["Lorena Ivana Aguirre", "María Valeria Auil", "Pablo Ariel Natta"]
 }, {
@@ -2185,7 +2224,8 @@ const database_2026 = [{
 	"topic": "Equidad, inclusión y acceso al conocimiento",
 	"category": "Investigación o desarrollo aplicable",
 	"ua": ["Facultad de Arquitectura, Urbanismo y Diseño - UNC"],
-	"year": "2026",
+	"desc": "Esta plataforma geoespacial integra datos de los Censos Nacionales de Población con información satelital de la Capa Global de Asentamientos Humanos (GHSL) para visualizar la expansión urbana y la dinámica poblacional de los 427 municipios y comunas de Córdoba en cinco cortes temporales entre 1980 y 2020. Funciona directamente en cualquier navegador, sin licencias ni capacitación técnica. Su propósito es ofrecer a gobiernos locales, planificadores y académicos una herramienta comparativa de acceso abierto para el diseño de políticas de ordenamiento territorial.",
+  "year": "2026",
 	"position": null,
 	"team": ["Juan Manuel Echecolanea"]
 }];
