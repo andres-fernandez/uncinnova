@@ -2223,7 +2223,7 @@ const database_2026 = [{
 	"img": "https://uncinnova.unc.edu.ar/wp-content/uploads/sites/54/sites/54/2026/05/PORTADA_Hiza_Bio-1024x439.jpg",
 	"topic": "Bioeconomía",
 	"category": "Producto, proceso o servicio innovador",
-	"ua": ["Facultad de Ciencias Agropecuarias"],
+	"ua": ["Facultad de Ciencias Agropecuarias - UNC"],
 	"desc": "",
 	"year": "2026",
 	"position": null,
