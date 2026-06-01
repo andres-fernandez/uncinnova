@@ -2216,6 +2216,30 @@ const database_2026 = [{
   "year": "2026",
 	"position": null,
 	"team": ["Lorena Ivana Aguirre", "María Valeria Auil", "Pablo Ariel Natta"]
+},{
+	"title": "Sistema hidropónico para la producción intensiva y sustentable de higueras",
+	"short_name": "Sistema hidropónico para la producción intensiva y sustentable de higueras",
+	"url": "https: //uncinnova.unc.edu.ar/sistema-hidroponico-para-la-produccion-intensiva-y-sustentable-de-higueras/",
+	"img": "https://uncinnova.unc.edu.ar/wp-content/uploads/sites/54/sites/54/2026/05/PORTADA_Hiza_Bio-1024x439.jpg",
+	"topic": "Bioeconomía",
+	"type": "Producto Innovador",
+	"ua": ["Facultad de Ciencias Agropecuarias"],
+	"desc": "",
+	"year": "2026",
+	"position": null,
+	"team": ["Luciano Hiza", "María Rosa Mondino", "Ayelén Cuello Domínguez", "Laura Vargas", "Magalí Cargnelutti"]
+}, {
+	"title": "Notabu | Chatbot con IA para orientación en salud mental y consumos problemáticos",
+	"short_name": "Notabu | Chatbot con IA para orientación en salud mental y consumos problemáticos",
+	"url": "https: //uncinnova.unc.edu.ar/notabu-chatbot-con-ia-para-orientacion-en-salud-mental-y-consumos-problematicos/",
+	"img": "https://uncinnova.unc.edu.ar/wp-content/uploads/sites/54/sites/54/2026/05/PORTADA_Sanchez_equi-1024x687.jpg",
+	"topic": "Equidad, inclusión y acceso al conocimiento",
+	"type": "Producto Innovador",
+	"ua": ["Municipio de Jesús María"],
+	"desc": "Notabu es un chatbot municipal de inteligencia artificial desarrollado por la Municipalidad de Jesús María para brindar orientación anónima, confidencial y disponible las 24 horas sobre salud mental y consumos problemáticos de sustancias. Responde preguntas frecuentes, ofrece contención inicial y deriva hacia programas y servicios especializados locales y provinciales, sin reemplazar la atención profesional. Surge de la articulación entre el municipio y Campus Norte de la UNC, con criterios de privacidad, no discriminación y uso ético de la tecnología.",
+	"year": "2026",
+	"position": null,
+	"team": ["Claribel Anahí Rodríguez", "Tomás Sánchez Soria", "Marcelo Adrián Salcedo"]
 }, {
 	"title": "Dashboard interactivo de dinámicas urbanas en la provincia de Córdoba (1980–2020)",
 	"short_name": "Dinámicas urbanas en la provincia de Córdoba (1980–2020)",
