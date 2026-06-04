@@ -1806,7 +1806,7 @@ const database_2026 = [{
 	"ua": ["Instituto Gulich", "INTA Manfredi", "CONAE"],
 	"desc": "Este proyecto integra imágenes satelitales hiperespectrales (PRISMA, EnMAP) y multiespectrales (Sentinel-2) con datos de campo y algoritmos de aprendizaje automático para detectar procesos de salinización en etapas tempranas, incluso antes de que sean visibles en el terreno. El resultado son mapas de riesgo salino y de rendimiento predicitivo que se visualizan en una plataforma de uso agronómico. Surge de la articulación entre el Instituto Gulich, el INTA Manfredi y la CONAE, y apunta a mejorar la toma de decisiones en el sur de Córdoba.",
   "year": "2026",
-	"position": null,
+	"position": 3,
 	"team": ["María Victoria Marinelli", "Diego Hernán Pons", "Pablo Zader", "Mario Sgró", "Diego Schell", "Elisa Frank Buss"]
 }, {
 	"title": "NanoLiFe | Síntesis ecológica de LiFePO4 para baterías de litio a partir del lactosuero",
@@ -1818,7 +1818,7 @@ const database_2026 = [{
 	"ua": ["Facultad de Ciencias Químicas - UNC", "CONICET"],
 	"desc": "NanoLiFe produce LiFePO₄/C nanoestructurado —material catódico para baterías de ion-litio— utilizando nanofibras amiloideas obtenidas de proteínas del lactosuero como molde y fuente de carbono. El proceso opera en medio acuoso, en una única etapa, sin generar gases tóxicos ni efluentes contaminantes. El objetivo es avanzar en la cadena de valor del litio en Argentina, agregar valor industrial a un subproducto lácteo descartado y proteger el proceso intelectualmente.",
   "year": "2026",
-	"position": null,
+	"position": 1,
 	"team": ["Gerardo Fidelio", "Pablo Rodríguez", "María Elisa Mariani", "Santiago Vera"]
 }, {
 	"title": "Bioherbicidas basados en compuestos naturales para el control de malezas resistentes",
@@ -1854,7 +1854,7 @@ const database_2026 = [{
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC", "CONICET"],
 	"desc": "Este trabajo aborda la producción de antígeno ESAT-6, mediante tecnología de ADN recombinante, para ser usardo como reactivo en la prueba de diagnóstico de tuberculosis bovinase.  El antígeno ESAT-6 es específico de Mycobacterium bovis y está ausente en la mayoría de micobacterias ambientales. A diferencia del PPD-B convencional —una mezcla compleja de proteínas con problemas de especificidad y variabilidad entre lotes—, este antígeno purificado reduce los falsos positivos y negativos. El propósito es mejorar la precisión diagnóstica, abaratar los programas sanitarios y proyectar el desarrollo hacia mercados internacionales.",
   "year": "2026",
-	"position": null,
+	"position": 2,
 	"team": ["Matías Iván Gatto", "Claudia Argüelles", "Claudio Paolazzi", "Gustavo Helguera"]
 }, {
 	"title": "PigChoice Biotech | Una alternativa biodegradable para la inseminación artificial en porcinos",
@@ -2058,7 +2058,7 @@ const database_2026 = [{
 	"ua": ["Facultad de Ciencias Químicas - UNC", "CONICET"],
 	"desc": "Este desarrollo plantea analizar muestras de sangre periférica de pacientes con cáncer de mama HER2-negativo, tomadas antes del inicio del tratamiento, para construir firmas inmunológicas y perfiles de expresión génica capaces de predecir si una paciente responderá a la inmunoterapia. Al basarse en sangre y no en biopsias tumorales, ofrece un abordaje mínimamente invasivo. Actualmente en validación sobre una cohorte independiente de mayor tamaño, la plataforma tiene potencial de adaptación a otros tipos de cáncer tratados con inmunoterapia.",
   "year": "2026",
-	"position": null,
+	"position": 3,
 	"team": ["Sabrina Dhooge", "Nicolas Nuñez", "Mariana Maccioni", "Lucia Boffelli", "Jeremias Dutto", "Ana Paula Flores", "Jeremias Bustos", "Pilar Biasi"]
 }, {
 	"title": "Plataforma inteligente para la captura y evaluación automatizada del movimiento de personas en rehabilitación",
@@ -2094,7 +2094,7 @@ const database_2026 = [{
 	"ua": ["Facultad de Ciencias Médicas - UNC"],
 	"desc": "La propuesta plantea la instalación de tótems con tensiómetros digitales conectados a un sistema que procesa los datos del usuario —edad, antecedentes, síntomas y ubicación—, clasifica el nivel de riesgo cardiovascular y genera recomendaciones personalizadas. En casos urgentes deriva al centro de salud más cercano al lugar de la medición; en los demás, al más próximo al domicilio del usuario. Un módulo automatizado envía los resultados por email. La propuesta ya cuenta con una implementación piloto operativa y apunta a ampliar el autocontrol de la presión arterial en entornos comunitarios.",
   "year": "2026",
-	"position": null,
+	"position": 3,
 	"team": ["Juan González Camacho", "Jeanette Gauna", "Jimena Rodríguez", "Ornella Ponte"]
 }, {
 	"title": "Prótesis mioeléctrica accesible desarrollada con impresión 3D y tecnología abierta",
@@ -2106,7 +2106,7 @@ const database_2026 = [{
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC", "Programa de innovación y desarrollo tecnológico de Extensión UNC"],
 	"desc": "Esta prótesis de miembro superior capta señales electromiográficas de los músculos residuales del muñón, las procesa con un microcontrolador Arduino y las traduce en movimientos de una mano impresa en 3D con PLA y PETG. Su encaje es personalizable mediante escaneo 3D o férulas termoformables. Al ser open source y fabricable localmente, representa una reducción aproximada del 96 % en costo respecto de las prótesis biónicas importadas; además, puede producirse y mantenerse en hospitales públicos o talleres con equipamiento básico de impresión 3D.",
   "year": "2026",
-	"position": null,
+	"position": 3,
 	"team": ["Antonio Pereira Petruele", "Bárbara Carrizo", "Milagros Vasquez", "Benja Spina Bigotto", "Zoé Julieta de Lourdes Quiroz Cáceres", "Juan Cruz Paniagua"]
 }, {
 	"title": "Desarrollo de sistemas de liberación controlada de fármacos para glaucoma",
@@ -2118,7 +2118,7 @@ const database_2026 = [{
 	"ua": ["Facultad de Ciencias Exactas, Físicas y Naturales - UNC", "CONICET"],
 	"desc": "Se trata del desarrollo de insertos oculares de colágeno, fabricados por impresión 3D, que liberan acetazolamida —en forma convencional y como nanocristales— directamente en el saco conjuntival, de forma sostenida y localizada. La propuesta evita la administración oral del fármaco, que actualmente se usa en dosis elevadas por su escasa solubilidad oftálmica y genera efectos adversos sistémicos. Los estudios in vivo demostraron buena tolerabilidad ocular y reducción significativa de la presión intraocular con dosis menores. La plataforma tiene potencial de adaptación a otros tratamientos oftálmológicos.",
   "year": "2026",
-	"position": null,
+	"position": 2,
 	"team": ["Julieta Ribotta", "Hamoudi Awde", "Romina Comín", "Juan Pablo Real", "Santiago Palma", "Ignacio Tártara", "Mariana Cid", "Lina Formica"]
 }, {
 	"title": "ZenSer | Aplicación inteligente para sincronizar bienestar y condiciones ambientales",
@@ -2154,7 +2154,7 @@ const database_2026 = [{
 	"ua": ["Facultad de Arquitectura, Urbanismo y Diseño - UNC", "CONICET"],
 	"desc": "Este trabajo consiste en el diseño de un reactor de pirólisis rápida tipo FVP con alimentación automatizada por tornillo sin fin, que transforma biomasa residual —cáscaras, restos agrícolas, virutas de corcho, algas— en biocarbón altamente poroso apto para adsorber metales pesados, fármacos y pesticidas en agua y aire. El biocarbón puede modificarse con aditivos para distintas aplicaciones y se formula en filtros modulares de operación pasiva. Incluye además un módulo de recuperación de gases con potencial energético, lo cual cierra el ciclo productivo bajo un enfoque de economía circular.",
   "year": "2026",
-	"position": null,
+	"position": 1,
 	"team": ["Fidel Manattini", "Nicolas Miño", "Walter Pelaez", "Máximo Salzmann", "Gastón Silvestre", "Yanina Tobares", "Joaquin Torre", "Alem Valdez"]
 }, {
 	"title": "Índice de Caminabilidad | Sistema de diagnóstico territorial para mejorar la movilidad a pie en ciudades",
